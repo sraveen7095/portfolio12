@@ -1,0 +1,33 @@
+.user-profile{
+    border-radius: 50%;
+height:45px;
+width:45px;
+}
+
+.skill + .skill {
+    margin-top: 50px;
+}
+
+.skill h4 {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+}
+.progress{
+    border-radius: 0;
+}
+.progress-bar {
+    text-align: left;
+    transition-duration: 3s;
+  }
+.bg-black{
+    background: black;
+}
+@media (min-width: 1200px){
+.pcontainer {
+    width: 980px;
+}
+}
+.bg-video{
+    background-image: url(../../assets/img/video-bg.jpeg);
+}
