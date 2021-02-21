@@ -1,0 +1,49 @@
+[
+   {
+       "name":"HTML5",
+       "cent":75
+   },
+   {
+    "name":"CSS3",
+    "cent":70
+},
+{
+    "name":"BOOTSTRAP",
+    "cent":50
+},
+{
+    "name":"JQUERY",
+    "cent":70
+},
+{
+    "name":"JS",
+    "cent":70
+},   {
+    "name":".NET",
+    "cent":40
+},
+{
+    "name":"WCF SERVICES",
+    "cent":60
+},
+{
+    "name":"WEB API",
+    "cent":70
+},
+{
+    "name":"PYTHON",
+    "cent":30
+},
+{
+    "name":"ARTIFICIAL INTELLIGENCE",
+    "cent":30
+},
+{
+    "name":"MACHINE LEARNING",
+    "cent":30
+},
+{
+    "name":"DATA MINING",
+    "cent":30
+}
+]
